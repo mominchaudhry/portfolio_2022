@@ -53,6 +53,11 @@ button:focus {
 .mt-25 {
   margin-top: 25px; }
 
+.github_links {
+  text-overflow: ellipsis;
+  overflow: auto;
+}
+
 @media (min-width: 1200px) {
   .container {
     max-width: 1170px; } }

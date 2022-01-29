@@ -16,8 +16,8 @@ function Intro() {
 								<div className="personal_text">
 									<h6>Hi, I'm</h6>
 									<h3>Momin Chaudhry</h3>
-									<h4>Junior Developer - BSc. Computer Science (Co-op)</h4>
-									<p className="about_me">Passion for developing eye-catching web and mobile applications with a strong interest in machine learning and AI. Always learning and looking for new opportunities!</p>
+									<h4>Software Engineer - BSc. Computer Science (Co-op)</h4>
+									<p className="about_me">Passion for developing eye-catching web and mobile applications with a strong interest in machine learning and AI. Fluent in Javascript (React, Node) and Python. Always learning and looking for new opportunities!</p>
 									<ul className="list basic_info">
 										<li><p><FontAwesomeIcon icon={faPhone} /> (416)-317-6213</p></li>
 										<li><p><FontAwesomeIcon icon={faEnvelope} /> momin@chaudhry.tv</p></li>
